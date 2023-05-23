@@ -151,7 +151,7 @@ function App() {
 
                       <p> {item.value} </p>
                     </div>
-                    <div className="del-btn">
+                    <div>
                       <AiOutlineDelete
                         onClick={() => deleteTodo(index)}
                         size={20}

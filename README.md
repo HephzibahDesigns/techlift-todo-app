@@ -13,4 +13,4 @@ just input your data in the input box then click the add button to add todo
 
 ### Deployment
 
-Check out the App here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Check out the App here: [https://hephzibah-todo-app.netlify.app/](https://hephzibah-todo-app.netlify.app/)
